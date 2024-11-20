@@ -1,0 +1,9 @@
+site_name: P2 Project Documentation
+nav:
+  - Home: index.md
+  - About: about.md
+
+repo_name: "gurezende/MkDocs-Example"
+repo_url: "https://github.com/gurezende/MkDocs-Example"
+
+theme: mkdocs
