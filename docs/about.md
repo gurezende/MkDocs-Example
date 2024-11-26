@@ -6,11 +6,17 @@
 
 ---
 
+### Tutorial
+
+Watch the coding tutorial lecture explaining how to create professional looking documentation like this one using Python and Markdown.
+Tutorial available in [Gumroad.com](https://gustavorsantos.gumroad.com/l/mkdocs-lecture)
+
+---
+
 ### Contact
 
 Find me on [Linkedin](https://www.linkedin.com/in/gurezende/)
 
----
 
 ### GitHub Repository
 
