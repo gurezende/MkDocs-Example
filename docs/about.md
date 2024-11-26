@@ -17,6 +17,7 @@ Tutorial available in [Gumroad.com](https://gustavorsantos.gumroad.com/l/mkdocs-
 
 Find me on [Linkedin](https://www.linkedin.com/in/gurezende/)
 
+---
 
 ### GitHub Repository
 
