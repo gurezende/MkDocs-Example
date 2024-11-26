@@ -36,7 +36,7 @@ To create a documentation with MkDocs, these are the main bash commands:
 
 ### Functions
 
-These are the functions used in the code `hello.py`
+##### These are the functions used in the code `hello.py`
 
 ::: hello.main_func
 ::: hello.calculations
