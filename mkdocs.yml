@@ -7,3 +7,7 @@ repo_name: "gurezende/MkDocs-Example"
 repo_url: "https://github.com/gurezende/MkDocs-Example"
 
 theme: mkdocs
+
+plugins:
+- mkdocstrings:
+    default_handler: python
