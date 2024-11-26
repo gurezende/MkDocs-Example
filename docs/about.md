@@ -9,3 +9,9 @@
 ### Contact
 
 Find me on [Linkedin](https://www.linkedin.com/in/gurezende/)
+
+---
+
+### GitHub Repository
+
+[Go to the GitHub Repository](https://github.com/gurezende/MkDocs-Example)

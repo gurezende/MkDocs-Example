@@ -14,6 +14,7 @@ This project was built using **Python 3.12.1**
 ## Modules
 
 * mkdocs >= 1.6.1
+* mkdocstrings-python>=1.12.2
 * numpy >= 2.1.3
 * pandas >= 2.2.3
 * scikit-learn >= 1.5.2
@@ -32,3 +33,10 @@ To create a documentation with MkDocs, these are the main bash commands:
 * The files in the folder **docs** are the ones to hold the documentation text, using MarkDown notation.
 * Once the docs files are ready, build the page: `mkdocs build`
 * Deploy to your GitHub repository: `mkdocs gh-deploy`
+
+### Functions
+
+These are the functions used in the code `hello.py`
+
+::: hello.main_func
+::: hello.calculations
