@@ -22,5 +22,5 @@ Tutorial available in [Gumroad.com](https://gustavorsantos.gumroad.com/l/mkdocs-
 
 ### Contact
 
-Find me on [Linkedin](https://www.linkedin.com/in/gurezende/)
+Find me on [Linkedin.](https://www.linkedin.com/in/gurezende/)
 
